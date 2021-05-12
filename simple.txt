@@ -4,5 +4,5 @@ updated the line.
 updated by B.
 This is this is written by A.
 Demo-updated by A
-updated this also by A
+This is also updated after merging by B.
 
